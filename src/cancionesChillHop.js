@@ -83,6 +83,15 @@ function cancionesChillHop() {
       colores: ["#FDD0BD", "#564E89"],
       reproduciendo: true 
     },
+    {
+      id: uuidv4(),
+      nombre: "Test",
+      portada: "https://image.freepik.com/free-vector/data-visualization-dynamic-wave-pattern-vector_53876-77451.jpg", 
+      artista: "528Hz Sounds",
+      audio: "https://drive.google.com/uc?id=1JKAQwWauamD_9gLXJWUyIo3Izg7kv-hk",
+      colores: ["#FDD0BD", "#564E89"],
+      reproduciendo: true 
+    },
   ];
 }
 
